@@ -5,8 +5,6 @@ Diaro is a secure and user-friendly personal journaling app built with the MERN 
 
 [Original Live Demo](https://daybook-mern.vercel.app)
 
-Head over to the [Vercel deployment branch](https://github.com/thenileshnishad/daybook/tree/deployment) if you want to see how the deployment is set up (you can find the relevant details in their `package.json` file).
-
 ---
 
 ## 📚 Table of Contents
